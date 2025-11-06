@@ -1,0 +1,1 @@
+/home/beeguy/documents/git_hub/my-introduction-to-Rust-book/1.Getting_Started/hello_cargo/target/debug/hello_cargo: /home/beeguy/documents/git_hub/my-introduction-to-Rust-book/1.Getting_Started/hello_cargo/src/main.rs
